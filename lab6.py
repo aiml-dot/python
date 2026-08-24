@@ -1,6 +1,6 @@
 #invoice border pattern
 
-"""rows = 7
+rows = 7
 cols = 30
 
 for i in range(rows):
@@ -37,16 +37,16 @@ rows = 5
 for i in range(1, rows + 1):
     for j in range(1, i + 1):
         print(j, end=" ")
-    print()"""
+    print()
 
 # star triangle
 
-"""rows = 5
+rows = 5
 
 for i in range(1, rows + 1):
     for j in  range(i):
         print("*", end=" ")
-    print()"""
+    print()
 
 # inverted star pattern        
 
