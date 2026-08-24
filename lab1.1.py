@@ -17,6 +17,6 @@ print("subject 3 :", marks3)
 print("------------------------------")
 
 print("Total marks :", total)
-print("Average = % . 2f" % average)
+print("Average = % 2f" % average)
 
 
