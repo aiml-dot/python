@@ -1,4 +1,4 @@
-print("Monthly Expense Tracker")
+print("MONTHLY EXPENSE TRACKER")
 step1 = "Enter the number of initial expense"
 n = int(input("Enter the number of expense:"))
 
