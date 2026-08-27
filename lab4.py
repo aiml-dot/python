@@ -1,4 +1,4 @@
-print("**********Traffic signal simulation system*************")
+print("**********TRAFFIC SIGNAL SIMULATION SYSTEM*************")
 
 signal = input("Enter a signal color :").lower()
 
