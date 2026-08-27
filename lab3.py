@@ -1,4 +1,4 @@
-print("**********collage Addmision Eligiblity**********")
+print("**********COLLEGE ADMISSION ELIGIBILITY**********")
 
 num_age = int(input("Enter your age :"))
 num_mark = int(input("Enatr your mark :"))
