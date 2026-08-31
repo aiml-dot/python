@@ -1,0 +1,9 @@
+marks = [60,70,80,90,79,89,69]
+
+marks.append(99)
+marks.remove(60)
+marks[0] = 65
+
+print("update marks list :",marks)
+print("maximum marks list :",max(marks))
+print("average marks list :",sum(marks)/len(marks))
